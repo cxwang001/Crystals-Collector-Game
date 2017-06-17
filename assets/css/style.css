@@ -1,0 +1,75 @@
+.header{
+	display: inline-block;
+	background-color: orange;
+	width: 50%;
+	float: center;
+	padding: 10px;
+}
+
+h2{
+	color: white;
+	text-align: center;
+}
+.box{
+	display: inline-block;
+	background-color: silver;
+	height: 80%;
+	width: 50%;
+	color: cyan;
+	margin-top: 10px;	
+}
+p{
+	margin: 15px 15px;
+}
+
+.box2
+{
+	border: 1px solid #6CB6BD;
+	background-color: #6CB6BD;
+	margin-top: 10px;
+	width: 180px;
+	height: 110px;
+
+}
+
+.box3{
+	background-color: green;
+	border: 1px solid green;
+	margin-top: 10px;
+	width: 100px;
+	height: 110px;
+}
+.stone{
+	width: 80px;
+	height: 80px;
+	/*border: 1px solid green;*/
+	
+}
+.stone_po{
+	margin-top: 25px;
+
+}
+
+.results{
+	
+	background-color: #8CC1A5;
+	display: inline-block;
+	float: center;
+	margin-top: 10px;
+	padding: 5px;
+}
+
+h3{
+	color: white;
+	text-align: left;
+}
+
+.box4{
+	background-color: #8CC1A5;
+	width: 180px;
+	height: 110px;
+	margin-top: 10px;
+}
+
+
+
