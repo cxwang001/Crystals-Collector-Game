@@ -11,6 +11,11 @@ var sapphire_random=0;
 var topaz_random =0;
 var emerald_random=0;
 
+//Initial function 
+// 1. to generate a given random number
+// 2. to generate random number for 4 crystals
+// 3. initial result to 0 and write to it.
+
 function computerReset() {
   	//
   	random = Math.floor(Math.random() * (120 -19) + 19);
@@ -37,9 +42,10 @@ function computerReset() {
 };
 
 computerReset();
-
+//The 4 crystals is waiting for click
 $("img").click(function(){
 	// console.log($(this));
+
 
 if ($(this).hasClass('ruby')) {
       result += ruby_random;
