@@ -33,7 +33,6 @@ function computerReset() {
 	emerald_random = Math.floor(Math.random() * (12 -1) + 1);
 	// console.log('random4', emerald_random);	
       
-   	
 	$("#randomNumber").text(random);  
 
 	result = 0;
