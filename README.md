@@ -1,4 +1,5 @@
 CrystalsCollector Game
+![image](https://user-images.githubusercontent.com/27830803/29238232-86a2855e-7ee5-11e7-987d-67383e910483.png)
 
 ### Overview
 
